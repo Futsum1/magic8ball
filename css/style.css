@@ -1,0 +1,50 @@
+body {
+  text-align: center;
+  background: url("http://dash.ga.co/assets/anna-bg.png");
+  
+  color: white;
+  font-family: helvetica;
+}
+
+#input {
+
+  padding: 10px;
+  border-radius: 15px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.ask {
+  font-size: 55px;
+  margin-top: 30px;
+  text-shadow: white;
+}
+
+.images {
+  width: 600px;
+  margin: 0 auto;
+  margin-top: 50px;
+  font-family: "Helvetica Neue", arial;
+  font-weight: 100;
+}
+
+.hide {
+  display: none;
+}
+#question {
+  margin: 40px;
+  font-size: 50px;
+}
+
+#button {
+    width: 70px;
+    height: 60px;
+}
+
+#asked-question {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    align-self: center;
+    justify-content: center;
+}
