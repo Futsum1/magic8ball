@@ -10,7 +10,7 @@
 
 ## Feature:
 
-#### The Magic 8 Ball contains a 20-images with 10 positive answers, 5 negative answers, and 5 vague responses such as “Concentrate and ask again” and “Reply hazy, try again.” The answers on the image triangle they can be visible when the button is pressed against the question. Also you can make the answers change at the press of a button without asking.
+#### The Magic 8 Ball contains a 20-images with 10 positive answers, 5 negative answers, and 5 neutral  responses such as “Concentrate and ask again” and “Reply hazy, try again.” The answers on the image triangle they can be visible when the button is pressed against the question. Also you can make the answers change at the press of a button without asking.
 .
 
 #
