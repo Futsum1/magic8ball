@@ -23,8 +23,7 @@
 
 ## Getting Started:
 
-Link: https://github.com/Futsum1/magic8ball
-
+Link: file:///Users/futsum/code/magic8ball/index.html
 ## Next Step:
 
 - Planning to use 3D animation.
